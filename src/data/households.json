@@ -1,0 +1,4475 @@
+{
+  "households": [
+    {
+      "id": "HH-OFF001-17756318857190",
+      "submittedBy": "OFF001",
+      "officerName": "Ravi Kumar",
+      "region": "Delhi-North",
+      "submittedAt": "2024-01-10T03:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "3A",
+        "street": "Main Street",
+        "ward": "Ward 1",
+        "district": "Delhi",
+        "state": "Delhi",
+        "pincode": "100191"
+      },
+      "members": [
+        {
+          "name": "Anjali Iyer",
+          "age": 35,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Illiterate",
+          "occupation": "Self-employed",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "6274",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Deepak Nair",
+          "age": 47,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Illiterate",
+          "occupation": "Farmer",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "9998",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Vijay Nair",
+          "age": 58,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Primary",
+          "occupation": "Student",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "6423",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Sunita Reddy",
+          "age": 4,
+          "gender": "Female",
+          "relation": "Son",
+          "education": "Illiterate",
+          "occupation": "Student",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "3374",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Anjali Gupta",
+          "age": 35,
+          "gender": "Male",
+          "relation": "Daughter",
+          "education": "Graduate",
+          "occupation": "Farmer",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "3752",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Lakshmi Das",
+          "age": 49,
+          "gender": "Male",
+          "relation": "Daughter",
+          "education": "Primary",
+          "occupation": "Private Sector",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "6893",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 6,
+        "monthlyIncome": "25000-50000",
+        "houseType": "Kutcha",
+        "ownership": "Government",
+        "rooms": 3,
+        "toilet": false,
+        "drinkingWater": "River",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": false,
+        "vehiclesOwned": [
+          "None"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 97
+    },
+    {
+      "id": "HH-OFF002-17756318857191",
+      "submittedBy": "OFF002",
+      "officerName": "Priya Sharma",
+      "region": "Mumbai-West",
+      "submittedAt": "2024-01-10T04:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "2A",
+        "street": "Main Street",
+        "ward": "Ward 3",
+        "district": "Mumbai",
+        "state": "Maharashtra",
+        "pincode": "100218"
+      },
+      "members": [
+        {
+          "name": "Raj Reddy",
+          "age": 65,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Primary",
+          "occupation": "Homemaker",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "3714",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Sita Verma",
+          "age": 27,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Secondary",
+          "occupation": "Self-employed",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "3164",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 2,
+        "monthlyIncome": "25000-50000",
+        "houseType": "Pucca",
+        "ownership": "Owned",
+        "rooms": 3,
+        "toilet": true,
+        "drinkingWater": "Well",
+        "electricity": true,
+        "lpgConnection": false,
+        "internet": false,
+        "vehiclesOwned": [
+          "None"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 95
+    },
+    {
+      "id": "HH-OFF003-17756318857192",
+      "submittedBy": "OFF003",
+      "officerName": "Amit Singh",
+      "region": "Chennai-South",
+      "submittedAt": "2024-01-10T05:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "4A",
+        "street": "Gandhi Nagar",
+        "ward": "Ward 4",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "pincode": "100359"
+      },
+      "members": [
+        {
+          "name": "Vikram Reddy",
+          "age": 39,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Illiterate",
+          "occupation": "Homemaker",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "3876",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Lakshmi Singh",
+          "age": 41,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Graduate",
+          "occupation": "Homemaker",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "2761",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Rohit Kumar",
+          "age": 26,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Primary",
+          "occupation": "Government",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "2010",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Lakshmi Gupta",
+          "age": 14,
+          "gender": "Female",
+          "relation": "Son",
+          "education": "Graduate",
+          "occupation": "Government",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "6716",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Anjali Kumar",
+          "age": 11,
+          "gender": "Male",
+          "relation": "Daughter",
+          "education": "Post-Graduate",
+          "occupation": "Homemaker",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "3948",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Anjali Singh",
+          "age": 58,
+          "gender": "Male",
+          "relation": "Daughter",
+          "education": "Primary",
+          "occupation": "Student",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "4473",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 6,
+        "monthlyIncome": "Above 100000",
+        "houseType": "Semi-Pucca",
+        "ownership": "Government",
+        "rooms": 3,
+        "toilet": false,
+        "drinkingWater": "Well",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": true,
+        "vehiclesOwned": [
+          "Two-wheeler"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 96
+    },
+    {
+      "id": "HH-OFF004-17756318857193",
+      "submittedBy": "OFF004",
+      "officerName": "Sunita Devi",
+      "region": "Kolkata-East",
+      "submittedAt": "2024-01-10T06:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "5A",
+        "street": "Church Street",
+        "ward": "Ward 3",
+        "district": "Kolkata",
+        "state": "West Bengal",
+        "pincode": "100418"
+      },
+      "members": [
+        {
+          "name": "Sunita Verma",
+          "age": 48,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Post-Graduate",
+          "occupation": "Private Sector",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "6238",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Sita Bose",
+          "age": 43,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Illiterate",
+          "occupation": "Student",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "5588",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 2,
+        "monthlyIncome": "10000-25000",
+        "houseType": "Kutcha",
+        "ownership": "Rented",
+        "rooms": 3,
+        "toilet": true,
+        "drinkingWater": "Tap",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": false,
+        "vehiclesOwned": [
+          "None"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 97
+    },
+    {
+      "id": "HH-OFF001-17756318857194",
+      "submittedBy": "OFF001",
+      "officerName": "Ravi Kumar",
+      "region": "Delhi-North",
+      "submittedAt": "2024-01-10T07:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "5A",
+        "street": "Station Road",
+        "ward": "Ward 10",
+        "district": "Delhi",
+        "state": "Delhi",
+        "pincode": "100506"
+      },
+      "members": [
+        {
+          "name": "Rohit Patel",
+          "age": 65,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Post-Graduate",
+          "occupation": "Homemaker",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "4347",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Suresh Gupta",
+          "age": 18,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Illiterate",
+          "occupation": "Student",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "1842",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Amit Das",
+          "age": 58,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Graduate",
+          "occupation": "Daily Wage",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "3577",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 3,
+        "monthlyIncome": "25000-50000",
+        "houseType": "Kutcha",
+        "ownership": "Rented",
+        "rooms": 1,
+        "toilet": true,
+        "drinkingWater": "Well",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": true,
+        "vehiclesOwned": [
+          "Two-wheeler"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 95
+    },
+    {
+      "id": "HH-OFF002-17756318857205",
+      "submittedBy": "OFF002",
+      "officerName": "Priya Sharma",
+      "region": "Mumbai-West",
+      "submittedAt": "2024-01-10T08:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "8A",
+        "street": "MG Road",
+        "ward": "Ward 10",
+        "district": "Mumbai",
+        "state": "Maharashtra",
+        "pincode": "100667"
+      },
+      "members": [
+        {
+          "name": "Priya Gupta",
+          "age": 150,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Primary",
+          "occupation": "Farmer",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "8095",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Meera Kumar",
+          "age": 25,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Graduate",
+          "occupation": "Daily Wage",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "1961",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Priya Gupta",
+          "age": 35,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Secondary",
+          "occupation": "Homemaker",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "1491",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Vikram Mehta",
+          "age": 34,
+          "gender": "Female",
+          "relation": "Son",
+          "education": "Post-Graduate",
+          "occupation": "Daily Wage",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "2503",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Priya Bose",
+          "age": 17,
+          "gender": "Male",
+          "relation": "Daughter",
+          "education": "Secondary",
+          "occupation": "Government",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "9448",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 5,
+        "monthlyIncome": "10000-25000",
+        "houseType": "Kutcha",
+        "ownership": "Owned",
+        "rooms": 3,
+        "toilet": true,
+        "drinkingWater": "Tanker",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": true,
+        "vehiclesOwned": [
+          "Two-wheeler"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 95
+    },
+    {
+      "id": "HH-OFF003-17756318857206",
+      "submittedBy": "OFF003",
+      "officerName": "Amit Singh",
+      "region": "Chennai-South",
+      "submittedAt": "2024-01-10T09:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "9A",
+        "street": "Church Street",
+        "ward": "Ward 10",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "pincode": "100729"
+      },
+      "members": [
+        {
+          "name": "Pooja Nair",
+          "age": 57,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Illiterate",
+          "occupation": "Homemaker",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "1500",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Lakshmi Reddy",
+          "age": 1,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Primary",
+          "occupation": "Student",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "9172",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Anjali Sharma",
+          "age": 56,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Graduate",
+          "occupation": "Self-employed",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "7016",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 3,
+        "monthlyIncome": "10000-25000",
+        "houseType": "Pucca",
+        "ownership": "Rented",
+        "rooms": 2,
+        "toilet": true,
+        "drinkingWater": "Well",
+        "electricity": true,
+        "lpgConnection": false,
+        "internet": true,
+        "vehiclesOwned": [
+          "None"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 97
+    },
+    {
+      "id": "HH-OFF004-17756318857207",
+      "submittedBy": "OFF004",
+      "officerName": "Sunita Devi",
+      "region": "Kolkata-East",
+      "submittedAt": "2024-01-10T10:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "8A",
+        "street": "Link Road",
+        "ward": "Ward 9",
+        "district": "Kolkata",
+        "state": "West Bengal",
+        "pincode": "100817"
+      },
+      "members": [
+        {
+          "name": "Deepak Verma",
+          "age": 51,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Secondary",
+          "occupation": "Private Sector",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "2874",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Kavita Das",
+          "age": 19,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Post-Graduate",
+          "occupation": "Self-employed",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "1898",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Sita Nair",
+          "age": 17,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Post-Graduate",
+          "occupation": "Homemaker",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "7272",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Vijay Iyer",
+          "age": 35,
+          "gender": "Female",
+          "relation": "Son",
+          "education": "Illiterate",
+          "occupation": "Self-employed",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "2342",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 4,
+        "monthlyIncome": "50000-100000",
+        "houseType": "Pucca",
+        "ownership": "Government",
+        "rooms": 2,
+        "toilet": true,
+        "drinkingWater": "Tanker",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": false,
+        "vehiclesOwned": [
+          "None"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 97
+    },
+    {
+      "id": "HH-OFF001-17756318857208",
+      "submittedBy": "OFF001",
+      "officerName": "Ravi Kumar",
+      "region": "Delhi-North",
+      "submittedAt": "2024-01-10T11:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "9A",
+        "street": "MG Road",
+        "ward": "Ward 3",
+        "district": "Delhi",
+        "state": "Delhi",
+        "pincode": "100915"
+      },
+      "members": [
+        {
+          "name": "Sita Patel",
+          "age": 51,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Primary",
+          "occupation": "Homemaker",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "6753",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Suresh Sharma",
+          "age": 31,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Secondary",
+          "occupation": "Homemaker",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "3313",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Rohit Sharma",
+          "age": 57,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Primary",
+          "occupation": "Farmer",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "9438",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Lakshmi Verma",
+          "age": 15,
+          "gender": "Female",
+          "relation": "Son",
+          "education": "Primary",
+          "occupation": "Homemaker",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "5871",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 4,
+        "monthlyIncome": "Above 100000",
+        "houseType": "Kutcha",
+        "ownership": "Government",
+        "rooms": 2,
+        "toilet": true,
+        "drinkingWater": "Well",
+        "electricity": true,
+        "lpgConnection": false,
+        "internet": true,
+        "vehiclesOwned": [
+          "None"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 97
+    },
+    {
+      "id": "HH-OFF002-17756318857209",
+      "submittedBy": "OFF002",
+      "officerName": "Priya Sharma",
+      "region": "Mumbai-West",
+      "submittedAt": "2024-01-10T12:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "11A",
+        "street": "Station Road",
+        "ward": "Ward 5",
+        "district": "Mumbai",
+        "state": "Maharashtra",
+        "pincode": "101073"
+      },
+      "members": [
+        {
+          "name": "Priya Singh",
+          "age": 46,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Graduate",
+          "occupation": "Student",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "8186",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Anjali Iyer",
+          "age": 44,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Primary",
+          "occupation": "Farmer",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "6173",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Vikram Bose",
+          "age": 40,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Graduate",
+          "occupation": "Government",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "9618",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Sita Gupta",
+          "age": 16,
+          "gender": "Female",
+          "relation": "Son",
+          "education": "Primary",
+          "occupation": "Government",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "7604",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Deepak Singh",
+          "age": 45,
+          "gender": "Male",
+          "relation": "Daughter",
+          "education": "Graduate",
+          "occupation": "Farmer",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "4307",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Sita Gupta",
+          "age": 16,
+          "gender": "Male",
+          "relation": "Daughter",
+          "education": "Post-Graduate",
+          "occupation": "Government",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "8451",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 6,
+        "monthlyIncome": "Below 10000",
+        "houseType": "Kutcha",
+        "ownership": "Owned",
+        "rooms": 4,
+        "toilet": true,
+        "drinkingWater": "River",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": true,
+        "vehiclesOwned": [
+          "Two-wheeler"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 97
+    },
+    {
+      "id": "HH-OFF003-177563188572010",
+      "submittedBy": "OFF003",
+      "officerName": "Amit Singh",
+      "region": "Chennai-South",
+      "submittedAt": "2024-01-11T03:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "12A",
+        "street": "Park Street",
+        "ward": "Ward 10",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "pincode": "101163"
+      },
+      "members": [
+        {
+          "name": "Lakshmi Reddy",
+          "age": 33,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Secondary",
+          "occupation": "Student",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "2131",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Deepak Verma",
+          "age": 12,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Primary",
+          "occupation": "Homemaker",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "7701",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Deepak Das",
+          "age": 21,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Primary",
+          "occupation": "Student",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "9017",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Priya Das",
+          "age": 46,
+          "gender": "Female",
+          "relation": "Son",
+          "education": "Graduate",
+          "occupation": "Farmer",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "5231",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 4,
+        "monthlyIncome": "Above 100000",
+        "houseType": "Kutcha",
+        "ownership": "Government",
+        "rooms": 3,
+        "toilet": true,
+        "drinkingWater": "River",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": true,
+        "vehiclesOwned": [
+          "Two-wheeler"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 97
+    },
+    {
+      "id": "HH-OFF004-177563188572011",
+      "submittedBy": "OFF004",
+      "officerName": "Sunita Devi",
+      "region": "Kolkata-East",
+      "submittedAt": "2024-01-11T04:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "14A",
+        "street": "Station Road",
+        "ward": "Ward 1",
+        "district": "Kolkata",
+        "state": "West Bengal",
+        "pincode": "101236"
+      },
+      "members": [
+        {
+          "name": "Sita Nair",
+          "age": 56,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Primary",
+          "occupation": "Government",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "5307",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Priya Gupta",
+          "age": 11,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Primary",
+          "occupation": "Homemaker",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "2177",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Rahul Kumar",
+          "age": 35,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Graduate",
+          "occupation": "Student",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "6124",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Priya Gupta",
+          "age": 34,
+          "gender": "Female",
+          "relation": "Son",
+          "education": "Graduate",
+          "occupation": "Student",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "7818",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 4,
+        "monthlyIncome": "Above 100000",
+        "houseType": "Pucca",
+        "ownership": "Rented",
+        "rooms": 2,
+        "toilet": true,
+        "drinkingWater": "Well",
+        "electricity": true,
+        "lpgConnection": false,
+        "internet": false,
+        "vehiclesOwned": [
+          "None"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 97
+    },
+    {
+      "id": "HH-OFF001-177563188572012",
+      "submittedBy": "OFF001",
+      "officerName": "Ravi Kumar",
+      "region": "Delhi-North",
+      "submittedAt": "2024-01-11T05:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "15A",
+        "street": "Anna Salai",
+        "ward": "Ward 1",
+        "district": "Delhi",
+        "state": "Delhi",
+        "pincode": "101389"
+      },
+      "members": [
+        {
+          "name": "Sunita Singh",
+          "age": 15,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Post-Graduate",
+          "occupation": "Farmer",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "5712",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Rohit Sharma",
+          "age": 57,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Secondary",
+          "occupation": "Farmer",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "7357",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 2,
+        "monthlyIncome": "50000-100000",
+        "houseType": "Pucca",
+        "ownership": "Government",
+        "rooms": 4,
+        "toilet": true,
+        "drinkingWater": "River",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": true,
+        "vehiclesOwned": [
+          "Two-wheeler"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 96
+    },
+    {
+      "id": "HH-OFF002-177563188572013",
+      "submittedBy": "OFF002",
+      "officerName": "Priya Sharma",
+      "region": "Mumbai-West",
+      "submittedAt": "2024-01-11T06:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "15A",
+        "street": "Park Street",
+        "ward": "Ward 3",
+        "district": "Mumbai",
+        "state": "Maharashtra",
+        "pincode": "101415"
+      },
+      "members": [
+        {
+          "name": "Pooja Bose",
+          "age": 53,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Graduate",
+          "occupation": "Private Sector",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "7102",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Priya Patel",
+          "age": 48,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Post-Graduate",
+          "occupation": "Private Sector",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "7392",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Raj Kumar",
+          "age": 50,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Primary",
+          "occupation": "Private Sector",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "1159",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 3,
+        "monthlyIncome": "10000-25000",
+        "houseType": "Semi-Pucca",
+        "ownership": "Owned",
+        "rooms": 4,
+        "toilet": true,
+        "drinkingWater": "Tap",
+        "electricity": false,
+        "lpgConnection": true,
+        "internet": false,
+        "vehiclesOwned": [
+          "Two-wheeler"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 99
+    },
+    {
+      "id": "HH-OFF003-177563188572014",
+      "submittedBy": "OFF003",
+      "officerName": "Amit Singh",
+      "region": "Chennai-South",
+      "submittedAt": "2024-01-11T07:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "15A",
+        "street": "MG Road",
+        "ward": "Ward 3",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "pincode": "101535"
+      },
+      "members": [
+        {
+          "name": "Priya Sharma",
+          "age": 55,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Post-Graduate",
+          "occupation": "Private Sector",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "5044",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Rahul Gupta",
+          "age": 15,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Secondary",
+          "occupation": "Farmer",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "3088",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Rohit Iyer",
+          "age": 14,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Secondary",
+          "occupation": "Farmer",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "1221",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Kavita Kumar",
+          "age": 32,
+          "gender": "Female",
+          "relation": "Son",
+          "education": "Post-Graduate",
+          "occupation": "Government",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "7231",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Sita Gupta",
+          "age": 2,
+          "gender": "Male",
+          "relation": "Daughter",
+          "education": "Illiterate",
+          "occupation": "Government",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "7394",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Raj Kumar",
+          "age": 22,
+          "gender": "Male",
+          "relation": "Daughter",
+          "education": "Primary",
+          "occupation": "Daily Wage",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "9378",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 6,
+        "monthlyIncome": "Below 10000",
+        "houseType": "Semi-Pucca",
+        "ownership": "Government",
+        "rooms": 3,
+        "toilet": true,
+        "drinkingWater": "Well",
+        "electricity": true,
+        "lpgConnection": false,
+        "internet": false,
+        "vehiclesOwned": [
+          "Two-wheeler"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 99
+    },
+    {
+      "id": "HH-OFF004-177563188572015",
+      "submittedBy": "OFF004",
+      "officerName": "Sunita Devi",
+      "region": "Kolkata-East",
+      "submittedAt": "2024-01-11T08:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "18A",
+        "street": "Station Road",
+        "ward": "Ward 9",
+        "district": "Kolkata",
+        "state": "West Bengal",
+        "pincode": "101660"
+      },
+      "members": [
+        {
+          "name": "Meera Gupta",
+          "age": 55,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Illiterate",
+          "occupation": "Daily Wage",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "4924",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Sita Kumar",
+          "age": 2,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Primary",
+          "occupation": "Student",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "4704",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Amit Kumar",
+          "age": 8,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Secondary",
+          "occupation": "Private Sector",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "4100",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Deepak Singh",
+          "age": 30,
+          "gender": "Female",
+          "relation": "Son",
+          "education": "Illiterate",
+          "occupation": "Farmer",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "6060",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Sunita Verma",
+          "age": 34,
+          "gender": "Male",
+          "relation": "Daughter",
+          "education": "Graduate",
+          "occupation": "Government",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "6893",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 5,
+        "monthlyIncome": "Below 10000",
+        "houseType": "Semi-Pucca",
+        "ownership": "Government",
+        "rooms": 3,
+        "toilet": true,
+        "drinkingWater": "Well",
+        "electricity": true,
+        "lpgConnection": false,
+        "internet": false,
+        "vehiclesOwned": [
+          "None"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 97
+    },
+    {
+      "id": "HH-OFF001-177563188572016",
+      "submittedBy": "OFF001",
+      "officerName": "Ravi Kumar",
+      "region": "Delhi-North",
+      "submittedAt": "2024-01-11T09:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "17A",
+        "street": "Main Street",
+        "ward": "Ward 5",
+        "district": "Delhi",
+        "state": "Delhi",
+        "pincode": "101734"
+      },
+      "members": [
+        {
+          "name": "Vikram Gupta",
+          "age": 41,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Primary",
+          "occupation": "Farmer",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "9347",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Pooja Nair",
+          "age": 16,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Secondary",
+          "occupation": "Farmer",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "7498",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Sunita Patel",
+          "age": 50,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Secondary",
+          "occupation": "Government",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "5243",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Raj Singh",
+          "age": 57,
+          "gender": "Female",
+          "relation": "Son",
+          "education": "Post-Graduate",
+          "occupation": "Self-employed",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "7328",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Suresh Verma",
+          "age": 53,
+          "gender": "Male",
+          "relation": "Daughter",
+          "education": "Primary",
+          "occupation": "Homemaker",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "8052",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 5,
+        "monthlyIncome": "Above 100000",
+        "houseType": "Semi-Pucca",
+        "ownership": "Owned",
+        "rooms": 2,
+        "toilet": false,
+        "drinkingWater": "Tap",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": true,
+        "vehiclesOwned": [
+          "None"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 99
+    },
+    {
+      "id": "HH-OFF002-177563188572017",
+      "submittedBy": "OFF002",
+      "officerName": "Priya Sharma",
+      "region": "Mumbai-West",
+      "submittedAt": "2024-01-11T10:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "18A",
+        "street": "Park Street",
+        "ward": "Ward 2",
+        "district": "Mumbai",
+        "state": "Maharashtra",
+        "pincode": "101883"
+      },
+      "members": [
+        {
+          "name": "Suresh Iyer",
+          "age": 31,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Secondary",
+          "occupation": "Government",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "3356",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Sunita Bose",
+          "age": 24,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Secondary",
+          "occupation": "Private Sector",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "4746",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Amit Patel",
+          "age": 19,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Post-Graduate",
+          "occupation": "Farmer",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "2406",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 3,
+        "monthlyIncome": "Above 100000",
+        "houseType": "Pucca",
+        "ownership": "Owned",
+        "rooms": 2,
+        "toilet": true,
+        "drinkingWater": "River",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": false,
+        "vehiclesOwned": [
+          "Two-wheeler"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 98
+    },
+    {
+      "id": "HH-OFF003-177563188572018",
+      "submittedBy": "OFF003",
+      "officerName": "Amit Singh",
+      "region": "Chennai-South",
+      "submittedAt": "2024-01-11T11:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "19A",
+        "street": "Main Street",
+        "ward": "Ward 8",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "pincode": "101969"
+      },
+      "members": [
+        {
+          "name": "Rohit Kumar",
+          "age": 58,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Secondary",
+          "occupation": "Farmer",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "9680",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Amit Kumar",
+          "age": 30,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Secondary",
+          "occupation": "Student",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "3936",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 2,
+        "monthlyIncome": "Above 100000",
+        "houseType": "Semi-Pucca",
+        "ownership": "Owned",
+        "rooms": 4,
+        "toilet": false,
+        "drinkingWater": "Well",
+        "electricity": false,
+        "lpgConnection": true,
+        "internet": false,
+        "vehiclesOwned": [
+          "None"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 97
+    },
+    {
+      "id": "HH-OFF004-177563188572019",
+      "submittedBy": "OFF004",
+      "officerName": "Sunita Devi",
+      "region": "Kolkata-East",
+      "submittedAt": "2024-01-11T12:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "21A",
+        "street": "Gandhi Nagar",
+        "ward": "Ward 9",
+        "district": "Kolkata",
+        "state": "West Bengal",
+        "pincode": "102030"
+      },
+      "members": [
+        {
+          "name": "Rohit Reddy",
+          "age": 68,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Post-Graduate",
+          "occupation": "Private Sector",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "1094",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Meera Gupta",
+          "age": 26,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Primary",
+          "occupation": "Farmer",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "7552",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Rahul Patel",
+          "age": 41,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Post-Graduate",
+          "occupation": "Private Sector",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "3881",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 3,
+        "monthlyIncome": "25000-50000",
+        "houseType": "Pucca",
+        "ownership": "Owned",
+        "rooms": 1,
+        "toilet": false,
+        "drinkingWater": "Tap",
+        "electricity": true,
+        "lpgConnection": false,
+        "internet": false,
+        "vehiclesOwned": [
+          "None"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 97
+    },
+    {
+      "id": "HH-OFF001-177563188572020",
+      "submittedBy": "OFF001",
+      "officerName": "Ravi Kumar",
+      "region": "Delhi-North",
+      "submittedAt": "2024-01-12T03:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "22A",
+        "street": "Station Road",
+        "ward": "Ward 3",
+        "district": "Delhi",
+        "state": "Delhi",
+        "pincode": "102145"
+      },
+      "members": [
+        {
+          "name": "Lakshmi Iyer",
+          "age": 34,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Post-Graduate",
+          "occupation": "Student",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "4316",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Priya Sharma",
+          "age": 14,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Secondary",
+          "occupation": "Daily Wage",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "3467",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 2,
+        "monthlyIncome": "10000-25000",
+        "houseType": "Pucca",
+        "ownership": "Government",
+        "rooms": 1,
+        "toilet": true,
+        "drinkingWater": "Tanker",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": false,
+        "vehiclesOwned": [
+          "None"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 95
+    },
+    {
+      "id": "HH-OFF002-177563188572021",
+      "submittedBy": "OFF002",
+      "officerName": "Priya Sharma",
+      "region": "Mumbai-West",
+      "submittedAt": "2024-01-12T04:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "23A",
+        "street": "Anna Salai",
+        "ward": "Ward 10",
+        "district": "Mumbai",
+        "state": "Maharashtra",
+        "pincode": "102244"
+      },
+      "members": [
+        {
+          "name": "Kavita Kumar",
+          "age": 68,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Illiterate",
+          "occupation": "Private Sector",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "5732",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Anjali Gupta",
+          "age": 31,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Primary",
+          "occupation": "Self-employed",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "1288",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Vikram Iyer",
+          "age": 18,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Post-Graduate",
+          "occupation": "Self-employed",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "3937",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Sunita Patel",
+          "age": 47,
+          "gender": "Female",
+          "relation": "Son",
+          "education": "Secondary",
+          "occupation": "Student",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "2595",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Rohit Reddy",
+          "age": 2,
+          "gender": "Male",
+          "relation": "Daughter",
+          "education": "Primary",
+          "occupation": "Government",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "1702",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 5,
+        "monthlyIncome": "10000-25000",
+        "houseType": "Kutcha",
+        "ownership": "Government",
+        "rooms": 3,
+        "toilet": true,
+        "drinkingWater": "Well",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": true,
+        "vehiclesOwned": [
+          "Two-wheeler"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 95
+    },
+    {
+      "id": "HH-OFF003-177563188572022",
+      "submittedBy": "OFF003",
+      "officerName": "Amit Singh",
+      "region": "Chennai-South",
+      "submittedAt": "2024-01-12T05:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "24A",
+        "street": "Main Street",
+        "ward": "Ward 3",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "pincode": "102375"
+      },
+      "members": [
+        {
+          "name": "Lakshmi Verma",
+          "age": 69,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Post-Graduate",
+          "occupation": "Private Sector",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "9255",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Kavita Sharma",
+          "age": 50,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Illiterate",
+          "occupation": "Farmer",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "2713",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Sita Das",
+          "age": 10,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Post-Graduate",
+          "occupation": "Student",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "1193",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 3,
+        "monthlyIncome": "25000-50000",
+        "houseType": "Pucca",
+        "ownership": "Rented",
+        "rooms": 1,
+        "toilet": false,
+        "drinkingWater": "Tap",
+        "electricity": true,
+        "lpgConnection": false,
+        "internet": false,
+        "vehiclesOwned": [
+          "Two-wheeler"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 96
+    },
+    {
+      "id": "HH-OFF004-177563188572023",
+      "submittedBy": "OFF004",
+      "officerName": "Sunita Devi",
+      "region": "Kolkata-East",
+      "submittedAt": "2024-01-12T06:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "26A",
+        "street": "Link Road",
+        "ward": "Ward 8",
+        "district": "Kolkata",
+        "state": "West Bengal",
+        "pincode": "102401"
+      },
+      "members": [
+        {
+          "name": "Rohit Bose",
+          "age": 42,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Secondary",
+          "occupation": "Student",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "3085",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Kavita Nair",
+          "age": 44,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Primary",
+          "occupation": "Government",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "4649",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Deepak Reddy",
+          "age": 15,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Primary",
+          "occupation": "Self-employed",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "6490",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Rahul Verma",
+          "age": 1,
+          "gender": "Female",
+          "relation": "Son",
+          "education": "Secondary",
+          "occupation": "Self-employed",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "4766",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Vijay Mehta",
+          "age": 53,
+          "gender": "Male",
+          "relation": "Daughter",
+          "education": "Graduate",
+          "occupation": "Homemaker",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "9723",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 5,
+        "monthlyIncome": "50000-100000",
+        "houseType": "Kutcha",
+        "ownership": "Rented",
+        "rooms": 2,
+        "toilet": true,
+        "drinkingWater": "Well",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": false,
+        "vehiclesOwned": [
+          "None"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 95
+    },
+    {
+      "id": "HH-OFF001-177563188572024",
+      "submittedBy": "OFF001",
+      "officerName": "Ravi Kumar",
+      "region": "Delhi-North",
+      "submittedAt": "2024-01-12T07:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "26A",
+        "street": "Gandhi Nagar",
+        "ward": "Ward 4",
+        "district": "Delhi",
+        "state": "Delhi",
+        "pincode": "102548"
+      },
+      "members": [
+        {
+          "name": "Pooja Bose",
+          "age": 47,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Secondary",
+          "occupation": "Government",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "6059",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Raj Kumar",
+          "age": 30,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Graduate",
+          "occupation": "Farmer",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "5094",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Kavita Sharma",
+          "age": 33,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Graduate",
+          "occupation": "Self-employed",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "1088",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 3,
+        "monthlyIncome": "50000-100000",
+        "houseType": "Semi-Pucca",
+        "ownership": "Government",
+        "rooms": 1,
+        "toilet": true,
+        "drinkingWater": "Tap",
+        "electricity": true,
+        "lpgConnection": false,
+        "internet": true,
+        "vehiclesOwned": [
+          "Two-wheeler"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 95
+    },
+    {
+      "id": "HH-OFF002-177563188572025",
+      "submittedBy": "OFF002",
+      "officerName": "Priya Sharma",
+      "region": "Mumbai-West",
+      "submittedAt": "2024-01-12T08:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "28A",
+        "street": "Anna Salai",
+        "ward": "Ward 1",
+        "district": "Mumbai",
+        "state": "Maharashtra",
+        "pincode": "102669"
+      },
+      "members": [
+        {
+          "name": "Vijay Reddy",
+          "age": 30,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Illiterate",
+          "occupation": "Self-employed",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "4099",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Rohit Kumar",
+          "age": 47,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Graduate",
+          "occupation": "Homemaker",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "5050",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Vijay Reddy",
+          "age": 27,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Secondary",
+          "occupation": "Student",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "1395",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Lakshmi Sharma",
+          "age": 22,
+          "gender": "Female",
+          "relation": "Son",
+          "education": "Illiterate",
+          "occupation": "Private Sector",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "9600",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Rohit Iyer",
+          "age": 28,
+          "gender": "Male",
+          "relation": "Daughter",
+          "education": "Secondary",
+          "occupation": "Self-employed",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "4396",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Rahul Nair",
+          "age": 51,
+          "gender": "Male",
+          "relation": "Daughter",
+          "education": "Illiterate",
+          "occupation": "Student",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "9927",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 7,
+        "monthlyIncome": "Below 10000",
+        "houseType": "Semi-Pucca",
+        "ownership": "Owned",
+        "rooms": 1,
+        "toilet": true,
+        "drinkingWater": "Tanker",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": true,
+        "vehiclesOwned": [
+          "Two-wheeler"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 97
+    },
+    {
+      "id": "HH-OFF003-177563188572026",
+      "submittedBy": "OFF003",
+      "officerName": "Amit Singh",
+      "region": "Chennai-South",
+      "submittedAt": "2024-01-12T09:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "28A",
+        "street": "Church Street",
+        "ward": "Ward 4",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "pincode": "102798"
+      },
+      "members": [
+        {
+          "name": "Amit Verma",
+          "age": 34,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Primary",
+          "occupation": "Homemaker",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "2216",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Meera Iyer",
+          "age": 52,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Secondary",
+          "occupation": "Government",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "5687",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Lakshmi Bose",
+          "age": 43,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Secondary",
+          "occupation": "Government",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "8768",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Raj Singh",
+          "age": 54,
+          "gender": "Female",
+          "relation": "Son",
+          "education": "Post-Graduate",
+          "occupation": "Daily Wage",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "4920",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Kavita Mehta",
+          "age": 47,
+          "gender": "Male",
+          "relation": "Daughter",
+          "education": "Illiterate",
+          "occupation": "Farmer",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "8362",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 5,
+        "monthlyIncome": "Below 10000",
+        "houseType": "Pucca",
+        "ownership": "Rented",
+        "rooms": 1,
+        "toilet": true,
+        "drinkingWater": "River",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": true,
+        "vehiclesOwned": [
+          "Car"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 95
+    },
+    {
+      "id": "HH-OFF004-177563188572027",
+      "submittedBy": "OFF004",
+      "officerName": "Sunita Devi",
+      "region": "Kolkata-East",
+      "submittedAt": "2024-01-12T10:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "30A",
+        "street": "Park Street",
+        "ward": "Ward 5",
+        "district": "Kolkata",
+        "state": "West Bengal",
+        "pincode": "102816"
+      },
+      "members": [
+        {
+          "name": "Vijay Reddy",
+          "age": 64,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Graduate",
+          "occupation": "Homemaker",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "6226",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Vikram Singh",
+          "age": 39,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Illiterate",
+          "occupation": "Self-employed",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "1698",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Rahul Das",
+          "age": 42,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Post-Graduate",
+          "occupation": "Student",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "1833",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Amit Kumar",
+          "age": 57,
+          "gender": "Female",
+          "relation": "Son",
+          "education": "Post-Graduate",
+          "occupation": "Daily Wage",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "1857",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Pooja Kumar",
+          "age": 55,
+          "gender": "Male",
+          "relation": "Daughter",
+          "education": "Primary",
+          "occupation": "Private Sector",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "6349",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 5,
+        "monthlyIncome": "Below 10000",
+        "houseType": "Semi-Pucca",
+        "ownership": "Owned",
+        "rooms": 3,
+        "toilet": false,
+        "drinkingWater": "Tap",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": true,
+        "vehiclesOwned": [
+          "Two-wheeler"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 97
+    },
+    {
+      "id": "HH-OFF001-177563188572028",
+      "submittedBy": "OFF001",
+      "officerName": "Ravi Kumar",
+      "region": "Delhi-North",
+      "submittedAt": "2024-01-12T11:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "30A",
+        "street": "Station Road",
+        "ward": "Ward 2",
+        "district": "Delhi",
+        "state": "Delhi",
+        "pincode": "102946"
+      },
+      "members": [
+        {
+          "name": "Rohit Bose",
+          "age": 36,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Graduate",
+          "occupation": "Farmer",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "5366",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Priya Das",
+          "age": 30,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Illiterate",
+          "occupation": "Self-employed",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "1070",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Raj Verma",
+          "age": 42,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Secondary",
+          "occupation": "Self-employed",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "8628",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Sunita Reddy",
+          "age": 49,
+          "gender": "Female",
+          "relation": "Son",
+          "education": "Primary",
+          "occupation": "Self-employed",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "7042",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 4,
+        "monthlyIncome": "Below 10000",
+        "houseType": "Kutcha",
+        "ownership": "Government",
+        "rooms": 4,
+        "toilet": true,
+        "drinkingWater": "Well",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": false,
+        "vehiclesOwned": [
+          "Two-wheeler"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 98
+    },
+    {
+      "id": "HH-OFF002-177563188572029",
+      "submittedBy": "OFF002",
+      "officerName": "Priya Sharma",
+      "region": "Mumbai-West",
+      "submittedAt": "2024-01-12T12:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "30A",
+        "street": "Gandhi Nagar",
+        "ward": "Ward 8",
+        "district": "Mumbai",
+        "state": "Maharashtra",
+        "pincode": "103067"
+      },
+      "members": [
+        {
+          "name": "Amit Singh",
+          "age": 30,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Primary",
+          "occupation": "Student",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "1392",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Pooja Mehta",
+          "age": 54,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Post-Graduate",
+          "occupation": "Private Sector",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "5913",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Lakshmi Reddy",
+          "age": 20,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Primary",
+          "occupation": "Homemaker",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "7236",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Anjali Kumar",
+          "age": 1,
+          "gender": "Female",
+          "relation": "Son",
+          "education": "Primary",
+          "occupation": "Private Sector",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "1145",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Pooja Verma",
+          "age": 21,
+          "gender": "Male",
+          "relation": "Daughter",
+          "education": "Post-Graduate",
+          "occupation": "Private Sector",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "7089",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Sunita Kumar",
+          "age": 3,
+          "gender": "Male",
+          "relation": "Daughter",
+          "education": "Primary",
+          "occupation": "Homemaker",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "3217",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 6,
+        "monthlyIncome": "25000-50000",
+        "houseType": "Pucca",
+        "ownership": "Rented",
+        "rooms": 1,
+        "toilet": true,
+        "drinkingWater": "Well",
+        "electricity": false,
+        "lpgConnection": true,
+        "internet": false,
+        "vehiclesOwned": [
+          "None"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 96
+    },
+    {
+      "id": "HH-OFF003-177563188572030",
+      "submittedBy": "OFF003",
+      "officerName": "Amit Singh",
+      "region": "Chennai-South",
+      "submittedAt": "2024-01-13T03:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "33A",
+        "street": "Park Street",
+        "ward": "Ward 7",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "pincode": "103163"
+      },
+      "members": [
+        {
+          "name": "Suresh Bose",
+          "age": 37,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Illiterate",
+          "occupation": "Government",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "4165",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Raj Kumar",
+          "age": 21,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Primary",
+          "occupation": "Government",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "6421",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Meera Das",
+          "age": 34,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Illiterate",
+          "occupation": "Private Sector",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "6252",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Rahul Patel",
+          "age": 46,
+          "gender": "Female",
+          "relation": "Son",
+          "education": "Secondary",
+          "occupation": "Self-employed",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "9160",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Meera Kumar",
+          "age": 55,
+          "gender": "Male",
+          "relation": "Daughter",
+          "education": "Graduate",
+          "occupation": "Self-employed",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "4868",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 5,
+        "monthlyIncome": "25000-50000",
+        "houseType": "Kutcha",
+        "ownership": "Rented",
+        "rooms": 3,
+        "toilet": false,
+        "drinkingWater": "Well",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": false,
+        "vehiclesOwned": [
+          "None"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 99
+    },
+    {
+      "id": "HH-OFF004-177563188572031",
+      "submittedBy": "OFF004",
+      "officerName": "Sunita Devi",
+      "region": "Kolkata-East",
+      "submittedAt": "2024-01-13T04:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "34A",
+        "street": "Church Street",
+        "ward": "Ward 5",
+        "district": "Kolkata",
+        "state": "West Bengal",
+        "pincode": "103294"
+      },
+      "members": [
+        {
+          "name": "Vijay Gupta",
+          "age": 68,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Primary",
+          "occupation": "Self-employed",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "8176",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Meera Nair",
+          "age": 56,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Illiterate",
+          "occupation": "Private Sector",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "4341",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Vikram Gupta",
+          "age": 9,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Post-Graduate",
+          "occupation": "Self-employed",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "7872",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Vikram Kumar",
+          "age": 44,
+          "gender": "Female",
+          "relation": "Son",
+          "education": "Graduate",
+          "occupation": "Daily Wage",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "2181",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 4,
+        "monthlyIncome": "Above 100000",
+        "houseType": "Pucca",
+        "ownership": "Rented",
+        "rooms": 3,
+        "toilet": true,
+        "drinkingWater": "Tanker",
+        "electricity": true,
+        "lpgConnection": false,
+        "internet": false,
+        "vehiclesOwned": [
+          "Two-wheeler"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 99
+    },
+    {
+      "id": "HH-OFF001-177563188572032",
+      "submittedBy": "OFF001",
+      "officerName": "Ravi Kumar",
+      "region": "Delhi-North",
+      "submittedAt": "2024-01-13T05:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "33A",
+        "street": "Station Road",
+        "ward": "Ward 10",
+        "district": "Delhi",
+        "state": "Delhi",
+        "pincode": "103311"
+      },
+      "members": [
+        {
+          "name": "Rahul Bose",
+          "age": 69,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Primary",
+          "occupation": "Self-employed",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "1509",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Anjali Iyer",
+          "age": 59,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Illiterate",
+          "occupation": "Government",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "6769",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Sita Nair",
+          "age": 1,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Graduate",
+          "occupation": "Private Sector",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "6781",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 3,
+        "monthlyIncome": "25000-50000",
+        "houseType": "Semi-Pucca",
+        "ownership": "Owned",
+        "rooms": 4,
+        "toilet": true,
+        "drinkingWater": "Well",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": false,
+        "vehiclesOwned": [
+          "None"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 99
+    },
+    {
+      "id": "HH-OFF002-177563188572033",
+      "submittedBy": "OFF002",
+      "officerName": "Priya Sharma",
+      "region": "Mumbai-West",
+      "submittedAt": "2024-01-13T06:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "34A",
+        "street": "Anna Salai",
+        "ward": "Ward 8",
+        "district": "Mumbai",
+        "state": "Maharashtra",
+        "pincode": "103424"
+      },
+      "members": [
+        {
+          "name": "Priya Nair",
+          "age": 46,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Secondary",
+          "occupation": "Private Sector",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "6832",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Amit Iyer",
+          "age": 20,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Post-Graduate",
+          "occupation": "Government",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "3648",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 2,
+        "monthlyIncome": "50000-100000",
+        "houseType": "Kutcha",
+        "ownership": "Rented",
+        "rooms": 1,
+        "toilet": true,
+        "drinkingWater": "River",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": false,
+        "vehiclesOwned": [
+          "Car"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 95
+    },
+    {
+      "id": "HH-OFF003-177563188572034",
+      "submittedBy": "OFF003",
+      "officerName": "Amit Singh",
+      "region": "Chennai-South",
+      "submittedAt": "2024-01-13T07:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "37A",
+        "street": "MG Road",
+        "ward": "Ward 7",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "pincode": "103560"
+      },
+      "members": [
+        {
+          "name": "Sita Das",
+          "age": 53,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Primary",
+          "occupation": "Homemaker",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "8160",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Sunita Sharma",
+          "age": 21,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Graduate",
+          "occupation": "Homemaker",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "4003",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Rohit Kumar",
+          "age": 33,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Primary",
+          "occupation": "Homemaker",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "6192",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 3,
+        "monthlyIncome": "Below 10000",
+        "houseType": "Kutcha",
+        "ownership": "Government",
+        "rooms": 4,
+        "toilet": true,
+        "drinkingWater": "Well",
+        "electricity": true,
+        "lpgConnection": false,
+        "internet": true,
+        "vehiclesOwned": [
+          "Car"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 99
+    },
+    {
+      "id": "HH-OFF004-177563188572035",
+      "submittedBy": "OFF004",
+      "officerName": "Sunita Devi",
+      "region": "Kolkata-East",
+      "submittedAt": "2024-01-13T08:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "38A",
+        "street": "Anna Salai",
+        "ward": "Ward 2",
+        "district": "Kolkata",
+        "state": "West Bengal",
+        "pincode": "103640"
+      },
+      "members": [
+        {
+          "name": "Rahul Das",
+          "age": 55,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Primary",
+          "occupation": "Private Sector",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "9294",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Rahul Sharma",
+          "age": 16,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Graduate",
+          "occupation": "Government",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "1989",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Rohit Singh",
+          "age": 24,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Graduate",
+          "occupation": "Homemaker",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "9836",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Kavita Iyer",
+          "age": 22,
+          "gender": "Female",
+          "relation": "Son",
+          "education": "Primary",
+          "occupation": "Farmer",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "1617",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Meera Singh",
+          "age": 13,
+          "gender": "Male",
+          "relation": "Daughter",
+          "education": "Primary",
+          "occupation": "Government",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "4661",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 5,
+        "monthlyIncome": "Below 10000",
+        "houseType": "Pucca",
+        "ownership": "Government",
+        "rooms": 2,
+        "toilet": false,
+        "drinkingWater": "River",
+        "electricity": true,
+        "lpgConnection": false,
+        "internet": true,
+        "vehiclesOwned": [
+          "None"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 98
+    },
+    {
+      "id": "HH-OFF001-177563188572036",
+      "submittedBy": "OFF001",
+      "officerName": "Ravi Kumar",
+      "region": "Delhi-North",
+      "submittedAt": "2024-01-13T09:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "38A",
+        "street": "Anna Salai",
+        "ward": "Ward 5",
+        "district": "Delhi",
+        "state": "Delhi",
+        "pincode": "103725"
+      },
+      "members": [
+        {
+          "name": "Lakshmi Nair",
+          "age": 52,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Illiterate",
+          "occupation": "Government",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "6305",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Anjali Mehta",
+          "age": 11,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Primary",
+          "occupation": "Self-employed",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "2438",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Amit Verma",
+          "age": 35,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Secondary",
+          "occupation": "Self-employed",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "1972",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 3,
+        "monthlyIncome": "Below 10000",
+        "houseType": "Semi-Pucca",
+        "ownership": "Government",
+        "rooms": 2,
+        "toilet": true,
+        "drinkingWater": "Well",
+        "electricity": false,
+        "lpgConnection": true,
+        "internet": false,
+        "vehiclesOwned": [
+          "Two-wheeler"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 98
+    },
+    {
+      "id": "HH-OFF002-177563188572037",
+      "submittedBy": "OFF002",
+      "officerName": "Priya Sharma",
+      "region": "Mumbai-West",
+      "submittedAt": "2024-01-13T10:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "40A",
+        "street": "MG Road",
+        "ward": "Ward 1",
+        "district": "Mumbai",
+        "state": "Maharashtra",
+        "pincode": "103852"
+      },
+      "members": [
+        {
+          "name": "Kavita Patel",
+          "age": 53,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Graduate",
+          "occupation": "Student",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "9303",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Anjali Nair",
+          "age": 9,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Primary",
+          "occupation": "Daily Wage",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "3842",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 2,
+        "monthlyIncome": "10000-25000",
+        "houseType": "Semi-Pucca",
+        "ownership": "Rented",
+        "rooms": 1,
+        "toilet": true,
+        "drinkingWater": "River",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": true,
+        "vehiclesOwned": [
+          "None"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 98
+    },
+    {
+      "id": "HH-OFF003-177563188572038",
+      "submittedBy": "OFF003",
+      "officerName": "Amit Singh",
+      "region": "Chennai-South",
+      "submittedAt": "2024-01-13T11:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "39A",
+        "street": "Gandhi Nagar",
+        "ward": "Ward 4",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "pincode": "103921"
+      },
+      "members": [
+        {
+          "name": "Raj Kumar",
+          "age": 51,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Illiterate",
+          "occupation": "Daily Wage",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "2202",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Vijay Mehta",
+          "age": 49,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Illiterate",
+          "occupation": "Homemaker",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "8607",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Sita Gupta",
+          "age": 55,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Primary",
+          "occupation": "Private Sector",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "3136",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 3,
+        "monthlyIncome": "25000-50000",
+        "houseType": "Pucca",
+        "ownership": "Owned",
+        "rooms": 4,
+        "toilet": true,
+        "drinkingWater": "River",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": false,
+        "vehiclesOwned": [
+          "Two-wheeler"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 96
+    },
+    {
+      "id": "HH-OFF004-177563188572039",
+      "submittedBy": "OFF004",
+      "officerName": "Sunita Devi",
+      "region": "Kolkata-East",
+      "submittedAt": "2024-01-13T12:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "41A",
+        "street": "Anna Salai",
+        "ward": "Ward 8",
+        "district": "Kolkata",
+        "state": "West Bengal",
+        "pincode": "104087"
+      },
+      "members": [
+        {
+          "name": "Sunita Sharma",
+          "age": 64,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Post-Graduate",
+          "occupation": "Self-employed",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "7205",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Pooja Singh",
+          "age": 43,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Primary",
+          "occupation": "Student",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "1545",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Raj Sharma",
+          "age": 4,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Secondary",
+          "occupation": "Private Sector",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "8209",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 3,
+        "monthlyIncome": "25000-50000",
+        "houseType": "Semi-Pucca",
+        "ownership": "Government",
+        "rooms": 1,
+        "toilet": true,
+        "drinkingWater": "Tanker",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": true,
+        "vehiclesOwned": [
+          "Two-wheeler"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 97
+    },
+    {
+      "id": "HH-OFF001-177563188572040",
+      "submittedBy": "OFF001",
+      "officerName": "Ravi Kumar",
+      "region": "Delhi-North",
+      "submittedAt": "2024-01-14T03:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "42A",
+        "street": "Park Street",
+        "ward": "Ward 3",
+        "district": "Delhi",
+        "state": "Delhi",
+        "pincode": "104129"
+      },
+      "members": [
+        {
+          "name": "Suresh Patel",
+          "age": 65,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Secondary",
+          "occupation": "Private Sector",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "7600",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Rahul Gupta",
+          "age": 46,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Post-Graduate",
+          "occupation": "Government",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "5537",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Suresh Patel",
+          "age": 2,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Graduate",
+          "occupation": "Self-employed",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "6111",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 3,
+        "monthlyIncome": "10000-25000",
+        "houseType": "Kutcha",
+        "ownership": "Rented",
+        "rooms": 2,
+        "toilet": true,
+        "drinkingWater": "River",
+        "electricity": true,
+        "lpgConnection": false,
+        "internet": false,
+        "vehiclesOwned": [
+          "None"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 96
+    },
+    {
+      "id": "HH-OFF002-177563188572041",
+      "submittedBy": "OFF002",
+      "officerName": "Priya Sharma",
+      "region": "Mumbai-West",
+      "submittedAt": "2024-01-14T04:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "44A",
+        "street": "MG Road",
+        "ward": "Ward 10",
+        "district": "Mumbai",
+        "state": "Maharashtra",
+        "pincode": "104270"
+      },
+      "members": [
+        {
+          "name": "Amit Gupta",
+          "age": 51,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Illiterate",
+          "occupation": "Farmer",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "6579",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Raj Mehta",
+          "age": 38,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Primary",
+          "occupation": "Student",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "7703",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Sunita Nair",
+          "age": 33,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Graduate",
+          "occupation": "Student",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "5275",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 3,
+        "monthlyIncome": "50000-100000",
+        "houseType": "Semi-Pucca",
+        "ownership": "Owned",
+        "rooms": 2,
+        "toilet": true,
+        "drinkingWater": "Tanker",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": false,
+        "vehiclesOwned": [
+          "Two-wheeler"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 97
+    },
+    {
+      "id": "HH-OFF003-177563188572042",
+      "submittedBy": "OFF003",
+      "officerName": "Amit Singh",
+      "region": "Chennai-South",
+      "submittedAt": "2024-01-14T05:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "43A",
+        "street": "Church Street",
+        "ward": "Ward 1",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "pincode": "104335"
+      },
+      "members": [
+        {
+          "name": "Meera Bose",
+          "age": 37,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Secondary",
+          "occupation": "Government",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "8595",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Anjali Verma",
+          "age": 26,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Illiterate",
+          "occupation": "Farmer",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "8975",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Suresh Nair",
+          "age": 21,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Graduate",
+          "occupation": "Government",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "4782",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Priya Gupta",
+          "age": 40,
+          "gender": "Female",
+          "relation": "Son",
+          "education": "Secondary",
+          "occupation": "Private Sector",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "3451",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Lakshmi Gupta",
+          "age": 15,
+          "gender": "Male",
+          "relation": "Daughter",
+          "education": "Primary",
+          "occupation": "Government",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "8901",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Amit Patel",
+          "age": 22,
+          "gender": "Male",
+          "relation": "Daughter",
+          "education": "Primary",
+          "occupation": "Self-employed",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "9094",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 6,
+        "monthlyIncome": "10000-25000",
+        "houseType": "Pucca",
+        "ownership": "Government",
+        "rooms": 3,
+        "toilet": true,
+        "drinkingWater": "Tap",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": false,
+        "vehiclesOwned": [
+          "Two-wheeler"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 97
+    },
+    {
+      "id": "HH-OFF004-177563188572043",
+      "submittedBy": "OFF004",
+      "officerName": "Sunita Devi",
+      "region": "Kolkata-East",
+      "submittedAt": "2024-01-14T06:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "46A",
+        "street": "Gandhi Nagar",
+        "ward": "Ward 3",
+        "district": "Kolkata",
+        "state": "West Bengal",
+        "pincode": "104428"
+      },
+      "members": [
+        {
+          "name": "Suresh Sharma",
+          "age": 50,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Post-Graduate",
+          "occupation": "Self-employed",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "7933",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Rahul Gupta",
+          "age": 5,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Illiterate",
+          "occupation": "Private Sector",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "7085",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Suresh Sharma",
+          "age": 41,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Post-Graduate",
+          "occupation": "Government",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "6414",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Raj Nair",
+          "age": 35,
+          "gender": "Female",
+          "relation": "Son",
+          "education": "Primary",
+          "occupation": "Private Sector",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "6840",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Kavita Sharma",
+          "age": 33,
+          "gender": "Male",
+          "relation": "Daughter",
+          "education": "Illiterate",
+          "occupation": "Private Sector",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "6288",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Raj Bose",
+          "age": 27,
+          "gender": "Male",
+          "relation": "Daughter",
+          "education": "Primary",
+          "occupation": "Student",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "8045",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 6,
+        "monthlyIncome": "10000-25000",
+        "houseType": "Semi-Pucca",
+        "ownership": "Owned",
+        "rooms": 4,
+        "toilet": true,
+        "drinkingWater": "Tap",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": false,
+        "vehiclesOwned": [
+          "None"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 96
+    },
+    {
+      "id": "HH-OFF001-177563188572044",
+      "submittedBy": "OFF001",
+      "officerName": "Ravi Kumar",
+      "region": "Delhi-North",
+      "submittedAt": "2024-01-14T07:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "47A",
+        "street": "MG Road",
+        "ward": "Ward 6",
+        "district": "Delhi",
+        "state": "Delhi",
+        "pincode": "104543"
+      },
+      "members": [
+        {
+          "name": "Pooja Nair",
+          "age": 57,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Secondary",
+          "occupation": "Homemaker",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "8860",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Amit Gupta",
+          "age": 4,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Primary",
+          "occupation": "Government",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "2116",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Deepak Kumar",
+          "age": 3,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Secondary",
+          "occupation": "Student",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "6474",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 3,
+        "monthlyIncome": "Above 100000",
+        "houseType": "Kutcha",
+        "ownership": "Owned",
+        "rooms": 4,
+        "toilet": true,
+        "drinkingWater": "River",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": false,
+        "vehiclesOwned": [
+          "Two-wheeler"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 98
+    },
+    {
+      "id": "HH-OFF002-177563188572045",
+      "submittedBy": "OFF002",
+      "officerName": "Priya Sharma",
+      "region": "Mumbai-West",
+      "submittedAt": "2024-01-14T08:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "46A",
+        "street": "Main Street",
+        "ward": "Ward 5",
+        "district": "Mumbai",
+        "state": "Maharashtra",
+        "pincode": "104678"
+      },
+      "members": [
+        {
+          "name": "Kavita Reddy",
+          "age": 68,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Post-Graduate",
+          "occupation": "Private Sector",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "5492",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Amit Nair",
+          "age": 48,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Secondary",
+          "occupation": "Daily Wage",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "8154",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 2,
+        "monthlyIncome": "25000-50000",
+        "houseType": "Kutcha",
+        "ownership": "Rented",
+        "rooms": 4,
+        "toilet": true,
+        "drinkingWater": "Tanker",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": true,
+        "vehiclesOwned": [
+          "Two-wheeler"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 98
+    },
+    {
+      "id": "HH-OFF003-177563188572046",
+      "submittedBy": "OFF003",
+      "officerName": "Amit Singh",
+      "region": "Chennai-South",
+      "submittedAt": "2024-01-14T09:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "47A",
+        "street": "Main Street",
+        "ward": "Ward 9",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "pincode": "104792"
+      },
+      "members": [
+        {
+          "name": "Kavita Gupta",
+          "age": 41,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Post-Graduate",
+          "occupation": "Farmer",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "4332",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Priya Sharma",
+          "age": 18,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Primary",
+          "occupation": "Homemaker",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "9443",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 2,
+        "monthlyIncome": "Above 100000",
+        "houseType": "Kutcha",
+        "ownership": "Government",
+        "rooms": 2,
+        "toilet": true,
+        "drinkingWater": "Tap",
+        "electricity": true,
+        "lpgConnection": false,
+        "internet": true,
+        "vehiclesOwned": [
+          "None"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 98
+    },
+    {
+      "id": "HH-OFF004-177563188572047",
+      "submittedBy": "OFF004",
+      "officerName": "Sunita Devi",
+      "region": "Kolkata-East",
+      "submittedAt": "2024-01-14T10:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "49A",
+        "street": "Gandhi Nagar",
+        "ward": "Ward 10",
+        "district": "Kolkata",
+        "state": "West Bengal",
+        "pincode": "104822"
+      },
+      "members": [
+        {
+          "name": "Anjali Nair",
+          "age": 30,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Illiterate",
+          "occupation": "Daily Wage",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "2655",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Sita Bose",
+          "age": 0,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Illiterate",
+          "occupation": "Homemaker",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "1243",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Meera Kumar",
+          "age": 13,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Graduate",
+          "occupation": "Private Sector",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "6925",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Meera Das",
+          "age": 39,
+          "gender": "Female",
+          "relation": "Son",
+          "education": "Secondary",
+          "occupation": "Student",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "ST",
+          "aadharLast4": "5287",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Rohit Gupta",
+          "age": 16,
+          "gender": "Male",
+          "relation": "Daughter",
+          "education": "Secondary",
+          "occupation": "Daily Wage",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "1874",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 5,
+        "monthlyIncome": "50000-100000",
+        "houseType": "Kutcha",
+        "ownership": "Government",
+        "rooms": 2,
+        "toilet": false,
+        "drinkingWater": "Tap",
+        "electricity": true,
+        "lpgConnection": true,
+        "internet": false,
+        "vehiclesOwned": [
+          "None"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 98
+    },
+    {
+      "id": "HH-OFF001-177563188572048",
+      "submittedBy": "OFF001",
+      "officerName": "Ravi Kumar",
+      "region": "Delhi-North",
+      "submittedAt": "2024-01-14T11:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "49A",
+        "street": "Park Street",
+        "ward": "Ward 2",
+        "district": "Delhi",
+        "state": "Delhi",
+        "pincode": "104946"
+      },
+      "members": [
+        {
+          "name": "Anjali Patel",
+          "age": 35,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Graduate",
+          "occupation": "Student",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "2942",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Anjali Nair",
+          "age": 32,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Illiterate",
+          "occupation": "Government",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "6184",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Vijay Nair",
+          "age": 2,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Graduate",
+          "occupation": "Government",
+          "maritalStatus": "Unmarried",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "1658",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Sunita Patel",
+          "age": 45,
+          "gender": "Female",
+          "relation": "Son",
+          "education": "Post-Graduate",
+          "occupation": "Homemaker",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "2601",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Sunita Mehta",
+          "age": 31,
+          "gender": "Male",
+          "relation": "Daughter",
+          "education": "Illiterate",
+          "occupation": "Daily Wage",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "1692",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Rahul Mehta",
+          "age": 57,
+          "gender": "Male",
+          "relation": "Daughter",
+          "education": "Post-Graduate",
+          "occupation": "Farmer",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "OBC",
+          "aadharLast4": "4129",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 6,
+        "monthlyIncome": "Below 10000",
+        "houseType": "Semi-Pucca",
+        "ownership": "Owned",
+        "rooms": 1,
+        "toilet": true,
+        "drinkingWater": "Tanker",
+        "electricity": true,
+        "lpgConnection": false,
+        "internet": false,
+        "vehiclesOwned": [
+          "Two-wheeler"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 95
+    },
+    {
+      "id": "HH-OFF002-177563188572049",
+      "submittedBy": "OFF002",
+      "officerName": "Priya Sharma",
+      "region": "Mumbai-West",
+      "submittedAt": "2024-01-14T12:30:00.000Z",
+      "status": "complete",
+      "address": {
+        "houseNumber": "51A",
+        "street": "Park Street",
+        "ward": "Ward 9",
+        "district": "Mumbai",
+        "state": "Maharashtra",
+        "pincode": "105026"
+      },
+      "members": [
+        {
+          "name": "Pooja Iyer",
+          "age": 53,
+          "gender": "Female",
+          "relation": "Head",
+          "education": "Secondary",
+          "occupation": "Government",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "8648",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Vijay Nair",
+          "age": 54,
+          "gender": "Male",
+          "relation": "Spouse",
+          "education": "Primary",
+          "occupation": "Private Sector",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "General",
+          "aadharLast4": "9598",
+          "disability": false,
+          "migrant": false
+        },
+        {
+          "name": "Priya Sharma",
+          "age": 31,
+          "gender": "Male",
+          "relation": "Son",
+          "education": "Graduate",
+          "occupation": "Student",
+          "maritalStatus": "Married",
+          "religion": "Hindu",
+          "caste": "SC",
+          "aadharLast4": "3198",
+          "disability": false,
+          "migrant": false
+        }
+      ],
+      "householdInfo": {
+        "totalMembers": 3,
+        "monthlyIncome": "Above 100000",
+        "houseType": "Semi-Pucca",
+        "ownership": "Owned",
+        "rooms": 2,
+        "toilet": true,
+        "drinkingWater": "Tap",
+        "electricity": true,
+        "lpgConnection": false,
+        "internet": true,
+        "vehiclesOwned": [
+          "None"
+        ]
+      },
+      "anomalyFlags": [],
+      "completionScore": 99
+    }
+  ],
+  "meta": {
+    "lastUpdated": "2026-04-08T07:04:45.720Z",
+    "totalTargetHouseholds": 500,
+    "version": "1.0"
+  }
+}
